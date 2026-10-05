@@ -3,7 +3,7 @@
 <img width="1198" height="617" alt="ban" src="https://github.com/user-attachments/assets/bf42999c-93f8-42a9-833f-5cb75181d93b" width="100%" />
 
 
-<img src="ban.jpg" alt="Banner" width="100%" />
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
