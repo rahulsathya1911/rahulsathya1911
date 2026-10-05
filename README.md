@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Rahul%20Sathyanarayanan&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Mechanical%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
+<img width="1198" height="617" alt="ban" src="https://github.com/user-attachments/assets/bf42999c-93f8-42a9-833f-5cb75181d93b" width="100%" />
 
 
 <img src="ban.jpg" alt="Banner" width="100%" />
